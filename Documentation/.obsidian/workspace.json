@@ -14,21 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "4e6085d4d27ad3b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "X86 nasm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,6 +142,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e6085d4d27ad3b5",
-  "lastOpenFiles": []
+  "active": "00321045610f16ea",
+  "lastOpenFiles": [
+    "X86 nasm.md"
+  ]
 }
