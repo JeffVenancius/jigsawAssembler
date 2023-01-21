@@ -1,5 +1,6 @@
 |original|alias1|alias2|alias3|
 |---|---|---|---|
+|mov|moveTo|
 |int|interrupt||
 |add|calculate(+)||(+)|
 |sub|calculate(-)||(-)|
@@ -21,6 +22,7 @@
 |jz|jumpIf(Null)|jumpIfZero|(0)|
 |jnz|jumpIf(!Null)|jumpIfNotZero|(!0)|
 |jmp|jump|jumpTo|
-|db|defineByte|setByte|
-|dw|defineWord|setWord|
+|db|defineByte|setByte|defineValueOf(1)
+|dw|defineWord|setWord|defineValueOf(2)
+|dd|defineDoubleWord|setDoubleWord|defineValueOf(4)
 |DUP|defineMany|setMany|
